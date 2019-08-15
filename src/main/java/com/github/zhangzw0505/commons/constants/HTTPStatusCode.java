@@ -1,6 +1,6 @@
-package com.github.commons.constants;
+package com.github.zhangzw0505.commons.constants;
 
-public class HTTPStatusCode {
+public interface HTTPStatusCode {
 	
 	// 1xx
 	public static final int SC_CONTINUE = 100;

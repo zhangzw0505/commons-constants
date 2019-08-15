@@ -1,6 +1,6 @@
-package com.github.commons.constants;
+package com.github.zhangzw0505.commons.constants;
 
-public class DateFmtPattern {
+public interface DateFmtPattern {
 	
 	public static final String PAT_YEAR = "yyyy";
 	

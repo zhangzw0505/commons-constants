@@ -1,8 +1,8 @@
-package com.github.commons.constants;
+package com.github.zhangzw0505.commons.constants;
 
 import java.nio.charset.Charset;
 
-public class CharSets {
+public interface CharSets {
 	
 	public static final String STR_US_ASCII = "US-ASCII";
 	

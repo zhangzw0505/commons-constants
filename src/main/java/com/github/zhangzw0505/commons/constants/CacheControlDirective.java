@@ -1,9 +1,9 @@
-package com.github.commons.constants;
+package com.github.zhangzw0505.commons.constants;
 
 /**
  * Cache-Control
  */
-public class CacheControlDirective {
+public interface CacheControlDirective {
 	
 	public static final String PUBLIC = "public";
 	

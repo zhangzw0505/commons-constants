@@ -1,4 +1,4 @@
-package com.github.commons.constants;
+package com.github.zhangzw0505.commons.constants;
 
 public class MimeType {
 	

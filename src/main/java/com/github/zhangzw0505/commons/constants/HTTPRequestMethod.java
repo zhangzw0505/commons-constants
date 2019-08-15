@@ -1,6 +1,6 @@
-package com.github.commons.constants;
+package com.github.zhangzw0505.commons.constants;
 
-public class HTTPRequestMethod {
+public interface HTTPRequestMethod {
 	
 	public static final String GET = "GET";
 	
